@@ -1,6 +1,7 @@
 # Dango
 
 This is your story.
+I have a dream.
 
 ## Run in development mode
 
